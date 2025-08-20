@@ -1,0 +1,19 @@
+{
+  "name": "noma",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4",
+    "sqlite3": "^5",
+    "bcrypt": "^5",
+    "cookie-parser": "^1",
+    "multer": "^1",
+    "nanoid": "^5",
+    "express-rate-limit": "^7",
+    "csurf": "^1",
+    "helmet": "^7"
+  }
+}
