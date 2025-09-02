@@ -1,21 +1,20 @@
-# KOKO Web
+# 🌈 Feito Pensando nas Lésbicas
 
-KOKO é uma plataforma jovem que mistura **jogos sociais**, **amizades** e **apoio emocional via IA**.
+Um espaço criado com amor e orgulho para lésbicas, com mural, perfis e apoio emocional.
 
-## 🚀 Tecnologias
-- Next.js (React)
-- Tailwind CSS
+## 🚀 Funcionalidades
+- 💬 Mural da comunidade
+- 👩‍❤️‍👩 Perfis
+- 💜 Sala de Apoio Emocional
+- 📲 PWA instalável
 
-## ▶️ Como rodar localmente
+## 📦 Instalação
 ```bash
+git clone https://github.com/seu-usuario/meu-projeto-lesbicas.git
+cd meu-projeto-lesbicas
 npm install
 npm run dev
 ```
-O site ficará disponível em `http://localhost:3000`
 
-## 🌍 Deploy Automático
-- Repositório GitHub ligado ao **Vercel** ou **Netlify**
-- Cada push na branch `main` gera novo deploy automático
-
----
-Feito para: **JOGAR. CONECTAR. VIVER.**
+## 🌍 Deploy
+- Deploy automático via Vercel
